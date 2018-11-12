@@ -1,0 +1,6 @@
+M:\Katia\DS\DS\bin\Debug\DS.exe.config
+M:\Katia\DS\DS\obj\Debug\DS.csprojResolveAssemblyReference.cache
+M:\Katia\DS\DS\bin\Debug\DS.exe
+M:\Katia\DS\DS\bin\Debug\DS.pdb
+M:\Katia\DS\DS\obj\Debug\DS.exe
+M:\Katia\DS\DS\obj\Debug\DS.pdb
